@@ -21,7 +21,7 @@ chmod +x me_replacer
 
 Current functionality:
 
-- Breaks overclocking on some boards =)
+- Breaks overclocking in bios on some boards =)
 - Yes
 - None
 
