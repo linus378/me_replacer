@@ -16,12 +16,12 @@
 
 # Usage:
 
--git clone https://github.com/linus378/me_replacer.git
--chmod +x me_replacer
--./me_replacer
+- git clone https://github.com/linus378/me_replacer.git
+- chmod +x me_replacer
+- ./me_replacer
 
 
-Current functionality:
+# Current functionality:
 
 - Breaks overclocking in bios on some boards =)
 - Yes
