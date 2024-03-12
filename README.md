@@ -2,28 +2,23 @@
 
 
 
-Relaces IME firmware on select HEDT platforms.
+- Relaces IME firmware on select HEDT platforms.
 
 
 
 
-Dependencies:
+# Dependencies:
 
-dd
-
-
+- dd
 
 
-Usage:
 
 
-git clone https://github.com/linus378/me_replacer.git
+# Usage:
 
-chmod +x me_replacer
-
-./me_replacer
-
-
+-git clone https://github.com/linus378/me_replacer.git
+-chmod +x me_replacer
+-./me_replacer
 
 
 Current functionality:
