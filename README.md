@@ -27,3 +27,8 @@
 - Yes
 - None
 
+
+# Goals:
+
+- Make the tool slower for more relaxation
+- Make the tool bigger = better
