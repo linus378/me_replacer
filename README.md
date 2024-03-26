@@ -34,7 +34,8 @@
 - Make the tool bigger = better
 - Learn how to code instead of using AI.
 - Make the tool cross platform
-
+/
+/
 - Making serious goals and dejokeifying this project
 - Move from shithub to somewhere else. Maybe selfhost even
 - Make the tool complete so you can do something like "ime_remover bios.bin 
