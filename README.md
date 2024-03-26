@@ -2,7 +2,7 @@
 
 
 
-- R
+- Remove intel ime/csme from as many platforms as possible
 
 
 
